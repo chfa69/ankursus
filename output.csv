@@ -1,0 +1,12 @@
+server1 | CHANGED | rc=0 >>
+CPU, RAM, Disk
+CPU: Model name:                           12th Gen Intel(R) Core(TM) i5-12600K, 1927 MB, /dev/mapper/ubuntu--vg-ubuntu--lv,29G,6.2G,21G,23%
+/dev/sda2,2.0G,254M,1.6G,14%
+server3 | CHANGED | rc=0 >>
+CPU, RAM, Disk
+CPU: Model name:                           12th Gen Intel(R) Core(TM) i5-12600K, 1927 MB, /dev/mapper/ubuntu--vg-ubuntu--lv,29G,6.3G,21G,24%
+/dev/sda2,2.0G,254M,1.6G,14%
+server2 | CHANGED | rc=0 >>
+CPU, RAM, Disk
+CPU: Model name:                           12th Gen Intel(R) Core(TM) i5-12600K, 1927 MB, /dev/mapper/ubuntu--vg-ubuntu--lv,29G,6.2G,21G,24%
+/dev/sda2,2.0G,254M,1.6G,14%
